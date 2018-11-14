@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540322502 source:f:\iubat\projects\c++\raisha\raisha\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
